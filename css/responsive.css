@@ -1,0 +1,25 @@
+@media all and (max-width: 992px){
+    .portfolio-section .row .sm-center {
+        display: block;
+        width: 100%;
+        margin: 0 22%;
+
+    }
+   
+    
+}
+@media all and (max-width: 575px){
+    .featured-section .row .col-lg-4 {
+        margin-top: 30px;
+    }
+    .about-section .row .col-lg-6:last-child {
+        margin-top: 40px;
+    }
+    .service-section .row .col-lg-4 {
+        margin-top: 30px;
+    }
+    .team-section .row .col-lg-4{
+        margin-top: 30px;
+    }
+    
+}
